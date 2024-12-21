@@ -1,7 +1,0 @@
-C:\Users\Student29\Desktop\ПЗ_16 Сорокин\IS23_Sorokin1\bin\Debug\IS23_Sorokin1.exe.config
-C:\Users\Student29\Desktop\ПЗ_16 Сорокин\IS23_Sorokin1\bin\Debug\IS23_Sorokin1.exe
-C:\Users\Student29\Desktop\ПЗ_16 Сорокин\IS23_Sorokin1\bin\Debug\IS23_Sorokin1.pdb
-C:\Users\Student29\Desktop\ПЗ_16 Сорокин\IS23_Sorokin1\obj\Debug\IS23_Sorokin1.csproj.AssemblyReference.cache
-C:\Users\Student29\Desktop\ПЗ_16 Сорокин\IS23_Sorokin1\obj\Debug\IS23_Sorokin1.csproj.CoreCompileInputs.cache
-C:\Users\Student29\Desktop\ПЗ_16 Сорокин\IS23_Sorokin1\obj\Debug\IS23_Sorokin1.exe
-C:\Users\Student29\Desktop\ПЗ_16 Сорокин\IS23_Sorokin1\obj\Debug\IS23_Sorokin1.pdb
